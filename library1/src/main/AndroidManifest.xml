@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bill.library1">
+
+    <application>
+        <activity android:name=".SubActivity"></activity>
+        <activity android:name=".Lib1MainActivity"></activity>
+    </application>
+
+</manifest>
